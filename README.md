@@ -1,0 +1,1 @@
+Sorting algorithms are methods used to rearrange elements in a data structure (such as a list or array) into a specific order, usually ascending or descending. Sorting algorithms are widely used in computer science for tasks like searching, analyzing, and optimizing data.
